@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e68b14b7-5f91-425c-a14d-9b777a0d2734" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.15/libexec" />
+  <component name="ProjectId" id="1l5wypW8QDb9OC7L6wjniToY3LK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="example03-grun" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e68b14b7-5f91-425c-a14d-9b777a0d2734" name="Default Changelist" comment="" />
+      <created>1606900516393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606900516393</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1253" height="291" key="GridCell.Tab.0.bottom" timestamp="1606902230920">
+      <screen x="0" y="23" width="2048" height="1061" />
+    </state>
+    <state width="1253" height="291" key="GridCell.Tab.0.bottom/0.23.2048.1061@0.23.2048.1061" timestamp="1606902230920" />
+    <state width="1253" height="291" key="GridCell.Tab.0.center" timestamp="1606902230920">
+      <screen x="0" y="23" width="2048" height="1061" />
+    </state>
+    <state width="1253" height="291" key="GridCell.Tab.0.center/0.23.2048.1061@0.23.2048.1061" timestamp="1606902230920" />
+    <state width="1253" height="291" key="GridCell.Tab.0.left" timestamp="1606902230919">
+      <screen x="0" y="23" width="2048" height="1061" />
+    </state>
+    <state width="1253" height="291" key="GridCell.Tab.0.left/0.23.2048.1061@0.23.2048.1061" timestamp="1606902230919" />
+    <state width="1253" height="291" key="GridCell.Tab.0.right" timestamp="1606902230920">
+      <screen x="0" y="23" width="2048" height="1061" />
+    </state>
+    <state width="1253" height="291" key="GridCell.Tab.0.right/0.23.2048.1061@0.23.2048.1061" timestamp="1606902230920" />
+  </component>
+</project>
